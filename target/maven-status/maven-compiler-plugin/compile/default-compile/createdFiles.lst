@@ -1,0 +1,3 @@
+com\example\cicd\service\GreetingService.class
+com\example\cicd\controller\HelloController.class
+com\example\cicd\SpringBootCicdApplication.class
